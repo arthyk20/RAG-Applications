@@ -1,0 +1,25 @@
+Machine learning is a branch of Artificial Intelligence that focuses on developing models and algorithms that let computers learn from data without being explicitly programmed for every task. In simple words, ML teaches the systems to think and understand like humans by learning from the data.
+
+Module 1: Machine Learning Pipeline
+This section covers preprocessing, exploratory data analysis and model evaluation to prepare data, uncover insights and build reliable models.
+
+1. Data Preprocessing
+ML workflow
+Data Cleaning
+Data Preprocessing in Python
+Feature Scaling
+Feature Extraction
+Feature Engineering
+Feature Selection Techniques
+2. Exploratory Data Analysis
+Exploratory Data Analysis
+Exploratory Data Analysis in Python
+Advance EDA
+Time Series Data Visualization
+3. Model Evaluation
+Regularization in Machine Learning
+Confusion Matrix
+Precision, Recall and F1-Score
+AUC-ROC Curve
+Cross-validation
+Hyperparameter Tuning
